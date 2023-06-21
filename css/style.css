@@ -350,7 +350,7 @@ summary {
   display: list-item;
   cursor: pointer;
   border-radius: 10px;
-  background-color: Indigo;
+  background-color: indigo;
 }
 
 template {
