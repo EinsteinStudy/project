@@ -349,6 +349,7 @@ output {
 summary {
   display: list-item;
   cursor: pointer;
+  background-color: blue;
 }
 
 template {
