@@ -349,7 +349,7 @@ output {
 summary {
   display: list-item;
   cursor: pointer;
-  background-color: indigo;
+  background-color: teal;
   border-radius: 10px;
 }
 
