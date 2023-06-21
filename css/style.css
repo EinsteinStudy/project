@@ -349,8 +349,8 @@ output {
 summary {
   display: list-item;
   cursor: pointer;
-  background-color: Cyan;
   border-radius: 30px;
+  background-color: cyan;
 }
 
 template {
