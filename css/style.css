@@ -351,6 +351,7 @@ summary {
   cursor: pointer;
   background-color: teal;
   border-radius: 10px;
+  color: white;
 }
 
 template {
